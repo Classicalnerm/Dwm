@@ -1,5 +1,5 @@
-# Dwm
-This is my configuration of DWM
+# Dwm + ST
+This is my configuration of DWM and ST
 
 
 # Dependencies 
