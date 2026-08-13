@@ -10,4 +10,4 @@ rofi
 dash
 imlib2
 xsetroot
-Nerd Font
+JetBrainsMono Nerd Font
